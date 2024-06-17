@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnishaKumari82
-- 👀 I’m interested in learning technical skills
+- 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning python and java script
   
 - 📫 How to reach me : anishabrnwl@gmail.com
