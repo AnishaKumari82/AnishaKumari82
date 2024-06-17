@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnishaKumari82
 - 👀 I’m interested in learning technical skills
 - 🌱 I’m currently learning python and java script
-- 💞️ I’m looking to collaborate on ...
+  
 - 📫 How to reach me : anishabrnwl@gmail.com
 - ⚡ Fun fact: i want to be a 10X Coder but my X tends to 1 only
 
