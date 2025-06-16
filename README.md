@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **anishabrnwl@gmail.com**
 
-- ⚡ Fun fact **i want to be a 10X Coder but my X tends to 1 only**
+- ⚡ Fun fact **My code might not always compile on the first try, but my curiosity always runs without errors.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
